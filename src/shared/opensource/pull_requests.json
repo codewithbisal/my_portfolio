@@ -1,0 +1,29 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "PR_kwDOJ-GXzs5WKTSD",
+      "title": "Add files via upload",
+      "url": "https://github.com/codewithbisal/stock-level-predictor/pull/1",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-07-23T08:59:44Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 46722,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "stock-level-predictor",
+        "url": "https://github.com/codewithbisal/stock-level-predictor",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/134628968?u=4be7106739c375d577669a6ba63d0df5fe4aae3d&v=4",
+          "login": "codewithbisal",
+          "url": "https://github.com/codewithbisal"
+        }
+      }
+    }
+  ],
+  "merged": 0,
+  "open": 0,
+  "totalCount": 1
+}
