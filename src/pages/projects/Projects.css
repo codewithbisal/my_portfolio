@@ -10,6 +10,8 @@
 
 .projects-heading-div {
   display: flex;
+  align-items: center; /* Added to vertically center content */
+  justify-content: center; /* Added to horizontally center content */
 }
 
 .projects-heading-div > * {
@@ -21,6 +23,9 @@
   align-items: center;
   justify-content: center;
 }
+
+
+/* Rest of your CSS styles remain the same */
 
 .projects-heading-text-div {
   text-align: center;
@@ -55,6 +60,7 @@
   margin-right: 20px;
   font-family: "Google Sans Medium";
 }
+
 .publications-heading-text-div {
   text-align: center;
   font-family: "Google Sans Regular";
@@ -65,10 +71,10 @@
   font-size: 56px;
   font-weight: 600;
 }
+
 .repo-cards-div-main {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* Changed from flex-direction: row */
   gap: 1rem 1rem;
   margin-left: 40px;
   margin-right: 40px;
@@ -109,9 +115,9 @@
   }
 
   .repo-cards-div-main {
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 30px;
   }
 }
+

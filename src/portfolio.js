@@ -498,6 +498,7 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
+
 const publicationsHeader = {
   title: "Publications",
   description:
@@ -505,48 +506,26 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
+
 const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "gem5-based evaluation of CVA6 SoC: Insights into the Architectural Design",
+      createdAt: "2023-08-06T16:26:54Z",
+      description: "Paper Written on CVA6 model on gem5 simulator working for both SE and FS modes. (under-submission) ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://drive.google.com/file/d/1VYO8qV0aSqnOWRiTAV43u6IaYBF7KkGt/view?usp=sharing",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "Pakistan Sign Language Recognition Using MediaPipe and TensorFlow",
+      createdAt: "2023-08-06T16:26:54Z",
+      description: "Paper Written on PSL machine learning model to help deaf community.(under-submission) ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://docs.google.com/document/d/1GFg6qtBYHRGVKwZdRjQ7f79dADRmtP2J1AaxnT8e5h4/edit?usp=sharing",
     },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+    
   ],
 };
 
